@@ -1,0 +1,188 @@
+[
+  {
+    "TEXTURE": "argyle"
+  },
+  {
+    "TEXTURE": "bleached"
+  },
+  {
+    "TEXTURE": "color_block"
+  },
+  {
+    "TEXTURE": "chevron"
+  },
+  {
+    "TEXTURE": "crochet"
+  },
+  {
+    "TEXTURE": "distressed"
+  },
+  {
+    "TEXTURE": "polka_dot"
+  },
+  {
+    "TEXTURE": "dip_dye"
+  },
+  {
+    "TEXTURE": "embroidered"
+  },
+  {
+    "TEXTURE": "abstract_floral"
+  },
+  {
+    "TEXTURE": "floral"
+  },
+  {
+    "TEXTURE": "herringbone"
+  },
+  {
+    "TEXTURE": "houndstooth"
+  },
+  {
+    "TEXTURE": "cable_knit"
+  },
+  {
+    "TEXTURE": "chunky_knit"
+  },
+  {
+    "TEXTURE": "knitted"
+  },
+  {
+    "TEXTURE": "lattice"
+  },
+  {
+    "TEXTURE": "metallic"
+  },
+  {
+    "TEXTURE": "multicolor"
+  },
+  {
+    "TEXTURE": "ombre"
+  },
+  {
+    "TEXTURE": "paisley"
+  },
+  {
+    "TEXTURE": "check_pattern"
+  },
+  {
+    "TEXTURE": "skull_pattern"
+  },
+  {
+    "TEXTURE": "perforated"
+  },
+  {
+    "TEXTURE": "buffalo_plaid"
+  },
+  {
+    "TEXTURE": "anchor_print"
+  },
+  {
+    "TEXTURE": "animal_print"
+  },
+  {
+    "TEXTURE": "aztec_print"
+  },
+  {
+    "TEXTURE": "bird_print"
+  },
+  {
+    "TEXTURE": "butterfly_print"
+  },
+  {
+    "TEXTURE": "camouflage_print"
+  },
+  {
+    "TEXTURE": "cat_print"
+  },
+  {
+    "TEXTURE": "cherry_print"
+  },
+  {
+    "TEXTURE": "crocodile_print"
+  },
+  {
+    "TEXTURE": "daisy_print"
+  },
+  {
+    "TEXTURE": "dog_print"
+  },
+  {
+    "TEXTURE": "dot_print"
+  },
+  {
+    "TEXTURE": "elephant_print"
+  },
+  {
+    "TEXTURE": "flag_print"
+  },
+  {
+    "TEXTURE": "galaxy_print"
+  },
+  {
+    "TEXTURE": "geometric_print"
+  },
+  {
+    "TEXTURE": "giraffe_print"
+  },
+  {
+    "TEXTURE": "heart_print"
+  },
+  {
+    "TEXTURE": "leaf_print"
+  },
+  {
+    "TEXTURE": "leopard_print"
+  },
+  {
+    "TEXTURE": "letter_print"
+  },
+  {
+    "TEXTURE": "owl_print"
+  },
+  {
+    "TEXTURE": "palm_print"
+  },
+  {
+    "TEXTURE": "pineapple_print"
+  },
+  {
+    "TEXTURE": "rose_print"
+  },
+  {
+    "TEXTURE": "snake_print"
+  },
+  {
+    "TEXTURE": "star_print"
+  },
+  {
+    "TEXTURE": "tribal_print"
+  },
+  {
+    "TEXTURE": "fish_scale"
+  },
+  {
+    "TEXTURE": "sequined"
+  },
+  {
+    "TEXTURE": "paint_splatter"
+  },
+  {
+    "TEXTURE": "color_stripe"
+  },
+  {
+    "TEXTURE": "horizontal_stripe"
+  },
+  {
+    "TEXTURE": "vertical_stripe"
+  },
+  {
+    "TEXTURE": "zebra_stripe"
+  },
+  {
+    "TEXTURE": "striped"
+  },
+  {
+    "TEXTURE": "studded"
+  }
+]
