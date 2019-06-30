@@ -1,0 +1,782 @@
+{
+    "ankle_socks": [
+        "ankle_socks"
+    ],
+    "anorak": [
+        "anorak"
+    ],
+    "apron": [
+        "apron"
+    ],
+    "asymmetric_dress": [
+        "asymmetric_dress"
+    ],
+    "asymmetrical_skirt": [
+        "asymmetrical_skirt-1",
+        "asymmetrical_skirt"
+    ],
+    "asymmetrical_top": [
+        "asymmetrical_top",
+        "asymmetrical_top-1"
+    ],
+    "athletic_shoes": [
+        "athletic_shoes"
+    ],
+    "baggy_jeans": [
+        "baggy_jeans",
+        "baggy_jeans-1"
+    ],
+    "ball_gown": [
+        "ball_gown",
+        "ball_gown-1"
+    ],
+    "ballet_flats": [
+        "ballet_flats",
+        "ballet_flats-1"
+    ],
+    "bandage_dress": [
+        "bandage_dress"
+    ],
+    "bandeau": [
+        "bandeau"
+    ],
+    "baseball_jersey": [
+        "baseball_jersey"
+    ],
+    "basketball_jersey": [
+        "basketball_jersey"
+    ],
+    "basketball_shoes": [
+        "basketball_shoes"
+    ],
+    "bathrobe": [
+        "bathrobe"
+    ],
+    "beach_dress": [
+        "beach_dress"
+    ],
+    "bermuda": [
+        "bermuda"
+    ],
+    "bermuda_shorts": [
+        "bermuda_shorts"
+    ],
+    "bibs": [
+        "bibs"
+    ],
+    "biker_jacket": [
+        "biker_jacket-1",
+        "biker_jacket"
+    ],
+    "bikini": [
+        "bikini"
+    ],
+    "bikini_set": [
+        "bikini_set"
+    ],
+    "bikini_top": [
+        "bikini_top"
+    ],
+    "blazer": [
+        "blazer"
+    ],
+    "blouse_shirt": [
+        "blouse_shirt-1",
+        "blouse_shirt"
+    ],
+    "blouses": [
+        "blouses"
+    ],
+    "boardshorts": [
+        "boardshorts"
+    ],
+    "boat_shoes": [
+        "boat_shoes"
+    ],
+    "body_shaper": [
+        "body_shaper"
+    ],
+    "bodycon_dress": [
+        "bodycon_dress"
+    ],
+    "bohemian_dress": [
+        "bohemian_dress"
+    ],
+    "bolero": [
+        "bolero"
+    ],
+    "bomber_jacket": [
+        "bomber_jacket",
+        "bomber_jacket-1"
+    ],
+    "bootcut_jeans": [
+        "bootcut_jeans",
+        "bootcut_jeans-1"
+    ],
+    "booties": [
+        "booties"
+    ],
+    "boots": [
+        "boots"
+    ],
+    "boots_booties": [
+        "boots_booties"
+    ],
+    "boxer": [
+        "boxer"
+    ],
+    "boxer_briefs": [
+        "boxer_briefs"
+    ],
+    "boxer_shorts": [
+        "boxer_shorts"
+    ],
+    "boyshort": [
+        "boyshort"
+    ],
+    "bra_set": [
+        "bra_set"
+    ],
+    "bra_top": [
+        "bra_top"
+    ],
+    "bras": [
+        "bras"
+    ],
+    "brief_panty": [
+        "brief_panty"
+    ],
+    "briefs": [
+        "briefs"
+    ],
+    "button_down": [
+        "button_down"
+    ],
+    "button_up": [
+        "button_up"
+    ],
+    "cami": [
+        "cami"
+    ],
+    "cape": [
+        "cape"
+    ],
+    "cape_dress": [
+        "cape_dress"
+    ],
+    "capri_jeans": [
+        "capri_jeans",
+        "capri_jeans-1"
+    ],
+    "capri_leggings": [
+        "capri_leggings-1",
+        "capri_leggings"
+    ],
+    "capri_pants": [
+        "capri_pants",
+        "capri_pants-1"
+    ],
+    "cardigan": [
+        "cardigan"
+    ],
+    "cargo_pants": [
+        "cargo_pants-1",
+        "cargo_pants"
+    ],
+    "cargo_shorts": [
+        "cargo_shorts-1",
+        "cargo_shorts"
+    ],
+    "chapel_train": [
+        "chapel_train"
+    ],
+    "chelsea_boots": [
+        "chelsea_boots"
+    ],
+    "chinos": [
+        "chinos"
+    ],
+    "chukka": [
+        "chukka"
+    ],
+    "cleats": [
+        "cleats"
+    ],
+    "cloak": [
+        "cloak"
+    ],
+    "club_dress": [
+        "club_dress-1",
+        "club_dress"
+    ],
+    "coat": [
+        "coat",
+        "coat-1"
+    ],
+    "cocktail_dress": [
+        "cocktail_dress",
+        "cocktail_dress-1"
+    ],
+    "combat_boots": [
+        "combat_boots"
+    ],
+    "corset": [
+        "corset"
+    ],
+    "cosplay_costume": [
+        "cosplay_costume"
+    ],
+    "cowboy_boots": [
+        "cowboy_boots"
+    ],
+    "cowl": [
+        "cowl",
+        "cowl-1"
+    ],
+    "creeper": [
+        "creeper"
+    ],
+    "crew_socks": [
+        "crew_socks"
+    ],
+    "crew_sweatshirt": [
+        "crew_sweatshirt"
+    ],
+    "crop_top": [
+        "crop_top"
+    ],
+    "cropped_jeans": [
+        "cropped_jeans",
+        "cropped_jeans-1"
+    ],
+    "cropped_pants": [
+        "cropped_pants-1",
+        "cropped_pants"
+    ],
+    "culottes": [
+        "culottes-1",
+        "culottes"
+    ],
+    "dashiki_dress": [
+        "dashiki_dress",
+        "dashiki_dress-1"
+    ],
+    "draped_dress": [
+        "draped_dress"
+    ],
+    "dress": [
+        "dress"
+    ],
+    "dupatta": [
+        "dupatta"
+    ],
+    "espadrille": [
+        "espadrille",
+        "espadrille-1"
+    ],
+    "flannel_shirt": [
+        "flannel_shirt"
+    ],
+    "flare_dress": [
+        "flare_dress-1",
+        "flare_dress"
+    ],
+    "flat_sandals": [
+        "flat_sandals-1",
+        "flat_sandals"
+    ],
+    "flat_shoes": [
+        "flat_shoes-1",
+        "flat_shoes"
+    ],
+    "flip_flops": [
+        "flip_flops"
+    ],
+    "formal_dress": [
+        "formal_dress",
+        "formal_dress-1"
+    ],
+    "frill_dress": [
+        "frill_dress-2",
+        "frill_dress",
+        "frill_dress-1"
+    ],
+    "georgette_saree": [
+        "georgette_saree"
+    ],
+    "gladiator_sandals": [
+        "gladiator_sandals",
+        "gladiator_sandals-1"
+    ],
+    "golf_shirt": [
+        "golf_shirt"
+    ],
+    "golf_shoes": [
+        "golf_shoes"
+    ],
+    "gown": [
+        "gown",
+        "gown-1"
+    ],
+    "halter_dress": [
+        "halter_dress-1",
+        "halter_dress"
+    ],
+    "halter_top": [
+        "halter_top"
+    ],
+    "harem_pants": [
+        "harem_pants",
+        "harem_pants-1"
+    ],
+    "heeled_sandals": [
+        "heeled_sandals"
+    ],
+    "high_boots": [
+        "high_boots"
+    ],
+    "high_heels": [
+        "high_heels",
+        "high_heels-1"
+    ],
+    "high_top": [
+        "high_top"
+    ],
+    "hiking_boots": [
+        "hiking_boots"
+    ],
+    "hooded_jacket": [
+        "hooded_jacket",
+        "hooded_jacket-1"
+    ],
+    "illusion_dress": [
+        "illusion_dress",
+        "illusion_dress-1"
+    ],
+    "jeans": [
+        "jeans",
+        "jeans-1",
+        "jeans-2"
+    ],
+    "jersey_top": [
+        "jersey_top"
+    ],
+    "jogger_pants": [
+        "jogger_pants-1",
+        "jogger_pants"
+    ],
+    "jumper_dress": [
+        "jumper_dress-1",
+        "jumper_dress"
+    ],
+    "jumpsuit": [
+        "jumpsuit-1",
+        "jumpsuit"
+    ],
+    "kimono": [
+        "kimono-2",
+        "kimono-1",
+        "kimono"
+    ],
+    "kimono_dress": [
+        "kimono_dress-2",
+        "kimono_dress-1",
+        "kimono_dress"
+    ],
+    "lab_coat": [
+        "lab_coat"
+    ],
+    "layered_dress": [
+        "layered_dress-2",
+        "layered_dress-1",
+        "layered_dress"
+    ],
+    "leggings": [
+        "leggings-1",
+        "leggings",
+        "leggings-2"
+    ],
+    "lingerie": [
+        "lingerie"
+    ],
+    "lingerie_set": [
+        "lingerie_set"
+    ],
+    "loafers": [
+        "loafers",
+        "loafers-1"
+    ],
+    "long_coats": [
+        "long_coats"
+    ],
+    "long_dress": [
+        "long_dress"
+    ],
+    "low_top": [
+        "low_top"
+    ],
+    "maid_dress": [
+        "maid_dress"
+    ],
+    "maxi_dress": [
+        "maxi_dress-1",
+        "maxi_dress"
+    ],
+    "maxi_skirt": [
+        "maxi_skirt"
+    ],
+    "mermaid_dress": [
+        "mermaid_dress-2",
+        "mermaid_dress",
+        "mermaid_dress-1"
+    ],
+    "midi_dress": [
+        "midi_dress-1",
+        "midi_dress"
+    ],
+    "midi_skirt": [
+        "midi_skirt"
+    ],
+    "mini_dress": [
+        "mini_dress-1",
+        "mini_dress"
+    ],
+    "mini_skirt": [
+        "mini_skirt"
+    ],
+    "moccasin": [
+        "moccasin-1",
+        "moccasin"
+    ],
+    "monokini": [
+        "monokini",
+        "monokini-1"
+    ],
+    "mules": [
+        "mules-1",
+        "mules"
+    ],
+    "one_piece": [
+        "one_piece"
+    ],
+    "overall_dress": [
+        "overall_dress-1",
+        "overall_dress"
+    ],
+    "overalls": [
+        "overalls-1",
+        "overalls"
+    ],
+    "overcoat": [
+        "overcoat",
+        "overcoat-1"
+    ],
+    "palazzo": [
+        "palazzo-1",
+        "palazzo-2",
+        "palazzo"
+    ],
+    "panties": [
+        "panties"
+    ],
+    "pants": [
+        "pants-1",
+        "pants"
+    ],
+    "pantyhose": [
+        "pantyhose"
+    ],
+    "parka": [
+        "parka-1",
+        "parka"
+    ],
+    "peacoat": [
+        "peacoat-1",
+        "peacoat"
+    ],
+    "pencil_dress": [
+        "pencil_dress",
+        "pencil_dress-1"
+    ],
+    "pencil_skirt": [
+        "pencil_skirt"
+    ],
+    "peplum_dress": [
+        "peplum_dress-1",
+        "peplum_dress"
+    ],
+    "platform_heels": [
+        "platform_heels-1",
+        "platform_heels",
+        "platform_heels-2"
+    ],
+    "platform_sandals": [
+        "platform_sandals"
+    ],
+    "pleated_skirt": [
+        "pleated_skirt"
+    ],
+    "poncho": [
+        "poncho",
+        "poncho-1"
+    ],
+    "princess_dress": [
+        "princess_dress",
+        "princess_dress-1"
+    ],
+    "prom_gown": [
+        "prom_gown-1",
+        "prom_gown"
+    ],
+    "puffer_jacket": [
+        "puffer_jacket",
+        "puffer_jacket-1"
+    ],
+    "pumps": [
+        "pumps",
+        "pumps-1"
+    ],
+    "quinceanera_dress": [
+        "quinceanera_dress"
+    ],
+    "raglan": [
+        "raglan"
+    ],
+    "rain_boots": [
+        "rain_boots"
+    ],
+    "raincoat": [
+        "raincoat"
+    ],
+    "riding_boots": [
+        "riding_boots"
+    ],
+    "robe": [
+        "robe"
+    ],
+    "running_shoes": [
+        "running_shoes"
+    ],
+    "running_shorts": [
+        "running_shorts"
+    ],
+    "saree": [
+        "saree"
+    ],
+    "sequined_dress": [
+        "sequined_dress",
+        "sequined_dress-1"
+    ],
+    "sheath_dress": [
+        "sheath_dress",
+        "sheath_dress-1"
+    ],
+    "shift_dress": [
+        "shift_dress",
+        "shift_dress-1"
+    ],
+    "shirt_dress": [
+        "shirt_dress",
+        "shirt_dress-1",
+        "shirt_dress-2"
+    ],
+    "shirt_tank": [
+        "shirt_tank"
+    ],
+    "shoulder_dress": [
+        "shoulder_dress-1",
+        "shoulder_dress"
+    ],
+    "skate_shoes": [
+        "skate_shoes",
+        "skate_shoes-1"
+    ],
+    "skater_dress": [
+        "skater_dress",
+        "skater_dress-1"
+    ],
+    "ski_jacket": [
+        "ski_jacket",
+        "ski_jacket-1"
+    ],
+    "skirt": [
+        "skirt"
+    ],
+    "skort": [
+        "skort"
+    ],
+    "slip_dress": [
+        "slip_dress",
+        "slip_dress-1"
+    ],
+    "sneakers": [
+        "sneakers"
+    ],
+    "snow_boots": [
+        "snow_boots"
+    ],
+    "soccer": [
+        "soccer-jersey"
+    ],
+    "soccer_shoes": [
+        "soccer_shoes"
+    ],
+    "socks": [
+        "socks"
+    ],
+    "split_dress": [
+        "split_dress",
+        "split_dress-1"
+    ],
+    "stiletto": [
+        "stiletto"
+    ],
+    "stockings": [
+        "stockings"
+    ],
+    "stole": [
+        "stole"
+    ],
+    "straight_jeans": [
+        "straight_jeans-1",
+        "straight_jeans"
+    ],
+    "strapless_dress": [
+        "strapless_dress",
+        "strapless_dress-1"
+    ],
+    "suit_women": [
+        "suit_women"
+    ],
+    "summer_dress": [
+        "summer_dress-1",
+        "summer_dress"
+    ],
+    "sweater_dress": [
+        "sweater_dress",
+        "sweater_dress-1"
+    ],
+    "sweatpants": [
+        "sweatpants"
+    ],
+    "sweatshirt": [
+        "sweatshirt"
+    ],
+    "swim_trunks": [
+        "swim_trunks"
+    ],
+    "swimsuits": [
+        "swimsuits"
+    ],
+    "swing_dress": [
+        "swing_dress",
+        "swing_dress-2",
+        "swing_dress-1"
+    ],
+    "tank_dress": [
+        "tank_dress-2",
+        "tank_dress-1",
+        "tank_dress"
+    ],
+    "tank_top": [
+        "tank_top"
+    ],
+    "tankini": [
+        "tankini"
+    ],
+    "tapered_jeans": [
+        "tapered_jeans",
+        "tapered_jeans-1"
+    ],
+    "tennis_shoes": [
+        "tennis_shoes-1",
+        "tennis_shoes"
+    ],
+    "thong_sandal": [
+        "thong_sandal"
+    ],
+    "track_pants": [
+        "track_pants",
+        "track_pants-1"
+    ],
+    "tracksuit": [
+        "tracksuit"
+    ],
+    "training_shoes": [
+        "training_shoes",
+        "training_shoes-1"
+    ],
+    "trench_coat": [
+        "trench_coat"
+    ],
+    "triangle_bikini": [
+        "triangle_bikini"
+    ],
+    "trumpet_dress": [
+        "trumpet_dress",
+        "trumpet_dress-1"
+    ],
+    "tshirt": [
+        "tshirt"
+    ],
+    "tube_dress": [
+        "tube_dress-1",
+        "tube_dress"
+    ],
+    "turtleneck_sweater": [
+        "turtleneck_sweater"
+    ],
+    "tutu_dress": [
+        "tutu_dress-1",
+        "tutu_dress"
+    ],
+    "tuxedo": [
+        "tuxedo",
+        "tuxedo-1"
+    ],
+    "underpants": [
+        "underpants"
+    ],
+    "victorian_dress": [
+        "victorian_dress",
+        "victorian_dress-1"
+    ],
+    "vintage_dress": [
+        "vintage_dress-2",
+        "vintage_dress",
+        "vintage_dress-1"
+    ],
+    "waist_cincher": [
+        "waist_cincher"
+    ],
+    "waistcoat": [
+        "waistcoat",
+        "waistcoat-1"
+    ],
+    "wedding_dress": [
+        "wedding_dress",
+        "wedding_dress-1"
+    ],
+    "wedge_boots": [
+        "wedge_boots",
+        "wedge_boots-1"
+    ],
+    "wedge_sandals": [
+        "wedge_sandals"
+    ],
+    "wedge_shoes": [
+        "wedge_shoes",
+        "wedge_shoes-1"
+    ],
+    "work_boots": [
+        "work_boots"
+    ],
+    "wrap_dress": [
+        "wrap_dress-1",
+        "wrap_dress"
+    ],
+    "yoga_pants": [
+        "yoga_pants-1",
+        "yoga_pants"
+    ]
+}

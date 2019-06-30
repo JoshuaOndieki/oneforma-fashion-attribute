@@ -1,514 +1,948 @@
 [
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "asymmetrical"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "button_back"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "low_back"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "open_back"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "tie_back"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "backless"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "bellbottom"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "belted"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "bodice"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "bodycon"
-  },
-  {
-    "CATEGORY": "BUTTON",
-    "PART": "button"
-  },
-  {
-    "CATEGORY": "CLOSURE",
-    "PART": "velcro_closure"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "bow_collar"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "collar"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "mandarin_collar"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "notched_collar"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "ruffle_collar"
-  },
-  {
-    "CATEGORY": "COLLAR",
-    "PART": "collarless"
-  },
-  {
-    "CATEGORY": "CROTCH",
-    "PART": "drop_crotch"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "side_cut"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "drawstring"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "scallop_edge"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "flare"
-  },
-  {
-    "CATEGORY": "BUTTON",
-    "PART": "button_fly"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "zipper_fly"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "chunky_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "kitten_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "low_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "spike_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "stacked_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "wedge_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "block_heel"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "high_heeled"
-  },
-  {
-    "CATEGORY": "LENGTH",
-    "PART": "knee_high"
-  },
-  {
-    "CATEGORY": "LENGTH",
-    "PART": "thigh_high"
-  },
-  {
-    "CATEGORY": "HOOD",
-    "PART": "hooded"
-  },
-  {
-    "CATEGORY": "LACE",
-    "PART": "laceup"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "lapel"
-  },
-  {
-    "CATEGORY": "LENGTH",
-    "PART": "knee_length"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "zipper_long"
-  },
-  {
-    "CATEGORY": "LENGTH",
-    "PART": "high_low"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "boat_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "crew_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "funnel_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "halter_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "high_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "illusion_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "plunging_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "roll_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "round_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "scoop_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "square_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "sweetheart_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "turtle_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "v_neck"
-  },
-  {
-    "CATEGORY": "NECK",
-    "PART": "cowl_neck"
-  },
-  {
-    "CATEGORY": "HEELS",
-    "PART": "heels_open"
-  },
-  {
-    "CATEGORY": "SHOULDER",
-    "PART": "shoulder_pad"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "peplum"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "pleat"
-  },
-  {
-    "CATEGORY": "POCKET",
-    "PART": "chest_pocket"
-  },
-  {
-    "CATEGORY": "POCKET",
-    "PART": "front_pocket"
-  },
-  {
-    "CATEGORY": "POCKET",
-    "PART": "kangaroo_pocket"
-  },
-  {
-    "CATEGORY": "POCKET",
-    "PART": "sleeve_pocket"
-  },
-  {
-    "CATEGORY": "POCKET",
-    "PART": "zipper_pocket"
-  },
-  {
-    "CATEGORY": "HEEL",
-    "PART": "heel_pointed"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "racerback"
-  },
-  {
-    "CATEGORY": "RISE",
-    "PART": "high_rise"
-  },
-  {
-    "CATEGORY": "RISE",
-    "PART": "low_rise"
-  },
-  {
-    "CATEGORY": "RISE",
-    "PART": "mid_rise"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "ruffle"
-  },
-  {
-    "CATEGORY": "SHOULDER",
-    "PART": "off_shoulder"
-  },
-  {
-    "CATEGORY": "SHOULDER",
-    "PART": "one_shoulder"
-  },
-  {
-    "CATEGORY": "SHOULDER",
-    "PART": "open_shoulder"
-  },
-  {
-    "CATEGORY": "SHOULDER",
-    "PART": "cold_shoulder"
-  },
-  {
-    "CATEGORY": "SHAPE",
-    "PART": "skinny"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "balloon_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "baseball_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "batwing_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "bishop_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "cap_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "cape_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "dolman_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "elbow_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "flare_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "flounce_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "flutter_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "full_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "long_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "raglan_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "rolled_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "ruffle_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "short_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "split_sleeve"
-  },
-  {
-    "CATEGORY": "SLEEVE",
-    "PART": "sleeveless"
-  },
-  {
-    "CATEGORY": "BACK",
-    "PART": "slingback"
-  },
-  {
-    "CATEGORY": "SLIT",
-    "PART": "double_slit"
-  },
-  {
-    "CATEGORY": "SLIT",
-    "PART": "high_slit"
-  },
-  {
-    "CATEGORY": "SLIT",
-    "PART": "side_slit"
-  },
-  {
-    "CATEGORY": "SOLE",
-    "PART": "lug_sole"
-  },
-  {
-    "CATEGORY": "SOLE",
-    "PART": "thick_sole"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "ankle_strap"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "double_strap"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "monk_strap"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "spaghetti_strap"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "toe_strap"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "strapless"
-  },
-  {
-    "CATEGORY": "STRAP",
-    "PART": "side_tie"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "wing_tip"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "cap_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "close_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "open_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "peep_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "pointed_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "round_toe"
-  },
-  {
-    "CATEGORY": "TOE",
-    "PART": "square_toe"
-  },
-  {
-    "CATEGORY": "TRAIN",
-    "PART": "long_train"
-  },
-  {
-    "CATEGORY": "TRIM",
-    "PART": "fringe_trim"
-  },
-  {
-    "CATEGORY": "TRIM",
-    "PART": "tassel_trim"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "zip_up"
-  },
-  {
-    "CATEGORY": "WAIST",
-    "PART": "elastic_waist"
-  },
-  {
-    "CATEGORY": "WAIST",
-    "PART": "empire_waist"
-  },
-  {
-    "CATEGORY": "LACE",
-    "PART": "ankle_wrap"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "quarter_zip"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "side_zip"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "double_zipper"
-  },
-  {
-    "CATEGORY": "ZIP",
-    "PART": "zipper"
-  }
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "asymmetrical-1",
+            "asymmetrical"
+        ],
+        "PART": "asymmetrical"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "button_back"
+        ],
+        "PART": "button_back"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "low_back",
+            "low_back-1"
+        ],
+        "PART": "low_back"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "open_back",
+            "open_back-1"
+        ],
+        "PART": "open_back"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "tie_back"
+        ],
+        "PART": "tie_back"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "backless",
+            "backless-1"
+        ],
+        "PART": "backless"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "bellbottom-1",
+            "bellbottom"
+        ],
+        "PART": "bellbottom"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "belted-1",
+            "belted"
+        ],
+        "PART": "belted"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "bodice-1",
+            "bodice"
+        ],
+        "PART": "bodice"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "bodycon"
+        ],
+        "PART": "bodycon"
+    },
+    {
+        "CATEGORY": "BUTTON",
+        "IMAGES": [
+            "button"
+        ],
+        "PART": "button"
+    },
+    {
+        "CATEGORY": "CLOSURE",
+        "IMAGES": [
+            "velcro_closure"
+        ],
+        "PART": "velcro_closure"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "bow_collar-1",
+            "bow_collar"
+        ],
+        "PART": "bow_collar"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "collar"
+        ],
+        "PART": "collar"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "mandarin_collar"
+        ],
+        "PART": "mandarin_collar"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "notched_collar"
+        ],
+        "PART": "notched_collar"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "ruffle_collar-1",
+            "ruffle_collar"
+        ],
+        "PART": "ruffle_collar"
+    },
+    {
+        "CATEGORY": "COLLAR",
+        "IMAGES": [
+            "collarless"
+        ],
+        "PART": "collarless"
+    },
+    {
+        "CATEGORY": "CROTCH",
+        "IMAGES": [
+            "drop_crotch"
+        ],
+        "PART": "drop_crotch"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "side_cut"
+        ],
+        "PART": "side_cut"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "drawstring-1",
+            "drawstring"
+        ],
+        "PART": "drawstring"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "scallop_edge"
+        ],
+        "PART": "scallop_edge"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "flare"
+        ],
+        "PART": "flare"
+    },
+    {
+        "CATEGORY": "BUTTON",
+        "IMAGES": [
+            "button_fly"
+        ],
+        "PART": "button_fly"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "zipper_fly"
+        ],
+        "PART": "zipper_fly"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "chunky_heel",
+            "chunky_heel-1"
+        ],
+        "PART": "chunky_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "kitten_heel-1",
+            "kitten_heel"
+        ],
+        "PART": "kitten_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "low_heel-1",
+            "low_heel",
+            "low_heel-2"
+        ],
+        "PART": "low_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "spike_heel"
+        ],
+        "PART": "spike_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "stacked_heel-1",
+            "stacked_heel"
+        ],
+        "PART": "stacked_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "wedge_heel",
+            "wedge_heel-1"
+        ],
+        "PART": "wedge_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "block_heel",
+            "block_heel-1"
+        ],
+        "PART": "block_heel"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "high_heeled-1",
+            "high_heeled"
+        ],
+        "PART": "high_heeled"
+    },
+    {
+        "CATEGORY": "LENGTH",
+        "IMAGES": [
+            "knee_high"
+        ],
+        "PART": "knee_high"
+    },
+    {
+        "CATEGORY": "LENGTH",
+        "IMAGES": [
+            "thigh_high"
+        ],
+        "PART": "thigh_high"
+    },
+    {
+        "CATEGORY": "HOOD",
+        "IMAGES": [
+            "hooded"
+        ],
+        "PART": "hooded"
+    },
+    {
+        "CATEGORY": "LACE",
+        "IMAGES": [
+            "laceup"
+        ],
+        "PART": "laceup"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "lapel"
+        ],
+        "PART": "lapel"
+    },
+    {
+        "CATEGORY": "LENGTH",
+        "IMAGES": [
+            "knee_length"
+        ],
+        "PART": "knee_length"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "zipper_long"
+        ],
+        "PART": "zipper_long"
+    },
+    {
+        "CATEGORY": "LENGTH",
+        "IMAGES": [
+            "high_low"
+        ],
+        "PART": "high_low"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "boat_neck"
+        ],
+        "PART": "boat_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "crew_neck"
+        ],
+        "PART": "crew_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "funnel_neck"
+        ],
+        "PART": "funnel_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "halter_neck"
+        ],
+        "PART": "halter_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "high_neck",
+            "high_neck-1"
+        ],
+        "PART": "high_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "illusion_neck",
+            "illusion_neck-1"
+        ],
+        "PART": "illusion_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "plunging_neck"
+        ],
+        "PART": "plunging_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "roll_neck",
+            "roll_neck-1"
+        ],
+        "PART": "roll_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "round_neck"
+        ],
+        "PART": "round_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "scoop_neck"
+        ],
+        "PART": "scoop_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "square_neck"
+        ],
+        "PART": "square_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "sweetheart_neck",
+            "sweetheart_neck-1"
+        ],
+        "PART": "sweetheart_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "turtle_neck-1",
+            "turtle_neck"
+        ],
+        "PART": "turtle_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "v_neck"
+        ],
+        "PART": "v_neck"
+    },
+    {
+        "CATEGORY": "NECK",
+        "IMAGES": [
+            "cowl_neck-1",
+            "cowl_neck"
+        ],
+        "PART": "cowl_neck"
+    },
+    {
+        "CATEGORY": "HEELS",
+        "IMAGES": [
+            "heels_open",
+            "heels_open-1"
+        ],
+        "PART": "heels_open"
+    },
+    {
+        "CATEGORY": "SHOULDER",
+        "IMAGES": [
+            "shoulder_pad"
+        ],
+        "PART": "shoulder_pad"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "peplum-1",
+            "peplum"
+        ],
+        "PART": "peplum"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "pleat",
+            "pleat-1"
+        ],
+        "PART": "pleat"
+    },
+    {
+        "CATEGORY": "POCKET",
+        "IMAGES": [
+            "chest_pocket"
+        ],
+        "PART": "chest_pocket"
+    },
+    {
+        "CATEGORY": "POCKET",
+        "IMAGES": [
+            "front_pocket"
+        ],
+        "PART": "front_pocket"
+    },
+    {
+        "CATEGORY": "POCKET",
+        "IMAGES": [
+            "kangaroo_pocket",
+            "kangaroo_pocket-1"
+        ],
+        "PART": "kangaroo_pocket"
+    },
+    {
+        "CATEGORY": "POCKET",
+        "IMAGES": [
+            "sleeve_pocket"
+        ],
+        "PART": "sleeve_pocket"
+    },
+    {
+        "CATEGORY": "POCKET",
+        "IMAGES": [
+            "zipper_pocket"
+        ],
+        "PART": "zipper_pocket"
+    },
+    {
+        "CATEGORY": "HEEL",
+        "IMAGES": [
+            "heel_pointed-1",
+            "heel_pointed"
+        ],
+        "PART": "heel_pointed"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "racerback"
+        ],
+        "PART": "racerback"
+    },
+    {
+        "CATEGORY": "RISE",
+        "IMAGES": [
+            "high_rise"
+        ],
+        "PART": "high_rise"
+    },
+    {
+        "CATEGORY": "RISE",
+        "IMAGES": [
+            "low_rise"
+        ],
+        "PART": "low_rise"
+    },
+    {
+        "CATEGORY": "RISE",
+        "IMAGES": [
+            "mid_rise"
+        ],
+        "PART": "mid_rise"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "ruffle"
+        ],
+        "PART": "ruffle"
+    },
+    {
+        "CATEGORY": "SHOULDER",
+        "IMAGES": [
+            "off_shoulder"
+        ],
+        "PART": "off_shoulder"
+    },
+    {
+        "CATEGORY": "SHOULDER",
+        "IMAGES": [
+            "one_shoulder"
+        ],
+        "PART": "one_shoulder"
+    },
+    {
+        "CATEGORY": "SHOULDER",
+        "IMAGES": [
+            "open_shoulder"
+        ],
+        "PART": "open_shoulder"
+    },
+    {
+        "CATEGORY": "SHOULDER",
+        "IMAGES": [
+            "cold_shoulder"
+        ],
+        "PART": "cold_shoulder"
+    },
+    {
+        "CATEGORY": "SHAPE",
+        "IMAGES": [
+            "skinny"
+        ],
+        "PART": "skinny"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "balloon_sleeve-1"
+        ],
+        "PART": "balloon_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "baseball_sleeve"
+        ],
+        "PART": "baseball_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "batwing_sleeve",
+            "batwing_sleeve-1"
+        ],
+        "PART": "batwing_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "bishop_sleeve-1",
+            "bishop_sleeve"
+        ],
+        "PART": "bishop_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "cap_sleeve"
+        ],
+        "PART": "cap_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "cape_sleeve-1",
+            "cape_sleeve"
+        ],
+        "PART": "cape_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "dolman_sleeve-1",
+            "dolman_sleeve"
+        ],
+        "PART": "dolman_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "elbow_sleeve"
+        ],
+        "PART": "elbow_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "flare_sleeve-1",
+            "flare_sleeve"
+        ],
+        "PART": "flare_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "flounce_sleeve"
+        ],
+        "PART": "flounce_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "flutter_sleeve"
+        ],
+        "PART": "flutter_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "full_sleeve",
+            "full_sleeve-1"
+        ],
+        "PART": "full_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "long_sleeve",
+            "long_sleeve-1"
+        ],
+        "PART": "long_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "raglan_sleeve"
+        ],
+        "PART": "raglan_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "rolled_sleeve"
+        ],
+        "PART": "rolled_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "ruffle_sleeve"
+        ],
+        "PART": "ruffle_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "short_sleeve"
+        ],
+        "PART": "short_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "sleeve"
+        ],
+        "PART": "sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "split_sleeve"
+        ],
+        "PART": "split_sleeve"
+    },
+    {
+        "CATEGORY": "SLEEVE",
+        "IMAGES": [
+            "sleeveless-1",
+            "sleeveless"
+        ],
+        "PART": "sleeveless"
+    },
+    {
+        "CATEGORY": "BACK",
+        "IMAGES": [
+            "slingback",
+            "slingback-1"
+        ],
+        "PART": "slingback"
+    },
+    {
+        "CATEGORY": "SLIT",
+        "IMAGES": [
+            "double_slit"
+        ],
+        "PART": "double_slit"
+    },
+    {
+        "CATEGORY": "SLIT",
+        "IMAGES": [
+            "high_slit"
+        ],
+        "PART": "high_slit"
+    },
+    {
+        "CATEGORY": "SLIT",
+        "IMAGES": [
+            "side_slit"
+        ],
+        "PART": "side_slit"
+    },
+    {
+        "CATEGORY": "SOLE",
+        "IMAGES": [
+            "lug_sole-1",
+            "lug_sole"
+        ],
+        "PART": "lug_sole"
+    },
+    {
+        "CATEGORY": "SOLE",
+        "IMAGES": [
+            "thick_sole-1",
+            "thick_sole"
+        ],
+        "PART": "thick_sole"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "ankle_strap"
+        ],
+        "PART": "ankle_strap"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "double_strap"
+        ],
+        "PART": "double_strap"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "monk_strap"
+        ],
+        "PART": "monk_strap"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "spaghetti_strap"
+        ],
+        "PART": "spaghetti_strap"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "toe_strap"
+        ],
+        "PART": "toe_strap"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "strapless"
+        ],
+        "PART": "strapless"
+    },
+    {
+        "CATEGORY": "STRAP",
+        "IMAGES": [
+            "side_tie"
+        ],
+        "PART": "side_tie"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "wing_tip"
+        ],
+        "PART": "wing_tip"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "cap_toe"
+        ],
+        "PART": "cap_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "close_toe-1",
+            "close_toe"
+        ],
+        "PART": "close_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "open_toe",
+            "open_toe-1"
+        ],
+        "PART": "open_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "peep_toe"
+        ],
+        "PART": "peep_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "pointed_toe",
+            "pointed_toe-1"
+        ],
+        "PART": "pointed_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "round_toe-1",
+            "round_toe",
+            "round_toe-2"
+        ],
+        "PART": "round_toe"
+    },
+    {
+        "CATEGORY": "TOE",
+        "IMAGES": [
+            "square_toe",
+            "square_toe-1"
+        ],
+        "PART": "square_toe"
+    },
+    {
+        "CATEGORY": "TRAIN",
+        "IMAGES": [
+            "long_train"
+        ],
+        "PART": "long_train"
+    },
+    {
+        "CATEGORY": "TRIM",
+        "IMAGES": [
+            "fringe_trim-1",
+            "fringe_trim"
+        ],
+        "PART": "fringe_trim"
+    },
+    {
+        "CATEGORY": "TRIM",
+        "IMAGES": [
+            "tassel_trim-1",
+            "tassel_trim"
+        ],
+        "PART": "tassel_trim"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "zip_up"
+        ],
+        "PART": "zip_up"
+    },
+    {
+        "CATEGORY": "WAIST",
+        "IMAGES": [
+            "elastic_waist"
+        ],
+        "PART": "elastic_waist"
+    },
+    {
+        "CATEGORY": "WAIST",
+        "IMAGES": [
+            "empire_waist",
+            "empire_waist-1"
+        ],
+        "PART": "empire_waist"
+    },
+    {
+        "CATEGORY": "LACE",
+        "IMAGES": [
+            "ankle_wrap",
+            "ankle_wrap-1"
+        ],
+        "PART": "ankle_wrap"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "quarter_zip"
+        ],
+        "PART": "quarter_zip"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "side_zip"
+        ],
+        "PART": "side_zip"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "double_zipper"
+        ],
+        "PART": "double_zipper"
+    },
+    {
+        "CATEGORY": "ZIP",
+        "IMAGES": [
+            "zipper"
+        ],
+        "PART": "zipper"
+    }
 ]

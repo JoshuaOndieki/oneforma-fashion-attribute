@@ -1,0 +1,442 @@
+{
+    "ankle_strap": [
+        "ankle_strap"
+    ],
+    "ankle_wrap": [
+        "ankle_wrap",
+        "ankle_wrap-1"
+    ],
+    "asymmetrical": [
+        "asymmetrical-1",
+        "asymmetrical"
+    ],
+    "backless": [
+        "backless",
+        "backless-1"
+    ],
+    "ballon_sleeve": [
+        "ballon_sleeve"
+    ],
+    "balloon_sleeve": [
+        "balloon_sleeve-1"
+    ],
+    "baseball_sleeve": [
+        "baseball_sleeve"
+    ],
+    "batwing_sleeve": [
+        "batwing_sleeve",
+        "batwing_sleeve-1"
+    ],
+    "bellbottom": [
+        "bellbottom-1",
+        "bellbottom"
+    ],
+    "belted": [
+        "belted-1",
+        "belted"
+    ],
+    "bishop_sleeve": [
+        "bishop_sleeve-1",
+        "bishop_sleeve"
+    ],
+    "block_heel": [
+        "block_heel",
+        "block_heel-1"
+    ],
+    "boat_neck": [
+        "boat_neck"
+    ],
+    "bodice": [
+        "bodice-1",
+        "bodice"
+    ],
+    "bodycon": [
+        "bodycon"
+    ],
+    "bow_collar": [
+        "bow_collar-1",
+        "bow_collar"
+    ],
+    "button": [
+        "button"
+    ],
+    "button_back": [
+        "button_back"
+    ],
+    "button_fly": [
+        "button_fly"
+    ],
+    "cap_sleeve": [
+        "cap_sleeve"
+    ],
+    "cap_toe": [
+        "cap_toe"
+    ],
+    "cape_sleeve": [
+        "cape_sleeve-1",
+        "cape_sleeve"
+    ],
+    "chest_pocket": [
+        "chest_pocket"
+    ],
+    "chunky_heel": [
+        "chunky_heel",
+        "chunky_heel-1"
+    ],
+    "close_toe": [
+        "close_toe-1",
+        "close_toe"
+    ],
+    "cold_shoulder": [
+        "cold_shoulder"
+    ],
+    "collar": [
+        "collar"
+    ],
+    "collarless": [
+        "collarless"
+    ],
+    "cowl_neck": [
+        "cowl_neck-1",
+        "cowl_neck"
+    ],
+    "crew_neck": [
+        "crew_neck"
+    ],
+    "dolman_sleeve": [
+        "dolman_sleeve-1",
+        "dolman_sleeve"
+    ],
+    "double_slit": [
+        "double_slit"
+    ],
+    "double_strap": [
+        "double_strap"
+    ],
+    "double_zipper": [
+        "double_zipper"
+    ],
+    "drawstring": [
+        "drawstring-1",
+        "drawstring"
+    ],
+    "drop_crotch": [
+        "drop_crotch"
+    ],
+    "elastic_waist": [
+        "elastic_waist"
+    ],
+    "elbow_sleeve": [
+        "elbow_sleeve"
+    ],
+    "empire_waist": [
+        "empire_waist",
+        "empire_waist-1"
+    ],
+    "flare": [
+        "flare"
+    ],
+    "flare_sleeve": [
+        "flare_sleeve-1",
+        "flare_sleeve"
+    ],
+    "flounce_sleeve": [
+        "flounce_sleeve"
+    ],
+    "flutter_sleeve": [
+        "flutter_sleeve"
+    ],
+    "fringe_trim": [
+        "fringe_trim-1",
+        "fringe_trim"
+    ],
+    "front_pocket": [
+        "front_pocket"
+    ],
+    "full_sleeve": [
+        "full_sleeve",
+        "full_sleeve-1"
+    ],
+    "funnel_neck": [
+        "funnel_neck"
+    ],
+    "halter_neck": [
+        "halter_neck"
+    ],
+    "heel_pointed": [
+        "heel_pointed-1",
+        "heel_pointed"
+    ],
+    "heels_open": [
+        "heels_open",
+        "heels_open-1"
+    ],
+    "high_heeled": [
+        "high_heeled-1",
+        "high_heeled"
+    ],
+    "high_low": [
+        "high_low"
+    ],
+    "high_neck": [
+        "high_neck",
+        "high_neck-1"
+    ],
+    "high_rise": [
+        "high_rise"
+    ],
+    "high_slit": [
+        "high_slit"
+    ],
+    "hooded": [
+        "hooded"
+    ],
+    "illusion_neck": [
+        "illusion_neck",
+        "illusion_neck-1"
+    ],
+    "kangaroo_pocket": [
+        "kangaroo_pocket",
+        "kangaroo_pocket-1"
+    ],
+    "kitten_heel": [
+        "kitten_heel-1",
+        "kitten_heel"
+    ],
+    "knee_high": [
+        "knee_high"
+    ],
+    "knee_length": [
+        "knee_length"
+    ],
+    "laceup": [
+        "laceup"
+    ],
+    "lapel": [
+        "lapel"
+    ],
+    "long_sleeve": [
+        "long_sleeve",
+        "long_sleeve-1"
+    ],
+    "long_train": [
+        "long_train"
+    ],
+    "low_back": [
+        "low_back",
+        "low_back-1"
+    ],
+    "low_heel": [
+        "low_heel-1",
+        "low_heel",
+        "low_heel-2"
+    ],
+    "low_rise": [
+        "low_rise"
+    ],
+    "lug_sole": [
+        "lug_sole-1",
+        "lug_sole"
+    ],
+    "mandarin_collar": [
+        "mandarin_collar"
+    ],
+    "mid_rise": [
+        "mid_rise"
+    ],
+    "monk_strap": [
+        "monk_strap"
+    ],
+    "notched_collar": [
+        "notched_collar"
+    ],
+    "off_shoulder": [
+        "off_shoulder"
+    ],
+    "one_shoulder": [
+        "one_shoulder"
+    ],
+    "open_back": [
+        "open_back",
+        "open_back-1"
+    ],
+    "open_shoulder": [
+        "open_shoulder"
+    ],
+    "open_toe": [
+        "open_toe",
+        "open_toe-1"
+    ],
+    "peep_toe": [
+        "peep_toe"
+    ],
+    "peplum": [
+        "peplum-1",
+        "peplum"
+    ],
+    "pleat": [
+        "pleat",
+        "pleat-1"
+    ],
+    "plunging_neck": [
+        "plunging_neck"
+    ],
+    "pointed_toe": [
+        "pointed_toe",
+        "pointed_toe-1"
+    ],
+    "quarter_zip": [
+        "quarter_zip"
+    ],
+    "racerback": [
+        "racerback"
+    ],
+    "raglan_sleeve": [
+        "raglan_sleeve"
+    ],
+    "roll_neck": [
+        "roll_neck",
+        "roll_neck-1"
+    ],
+    "rolled_sleeve": [
+        "rolled_sleeve"
+    ],
+    "round_neck": [
+        "round_neck"
+    ],
+    "round_toe": [
+        "round_toe-1",
+        "round_toe",
+        "round_toe-2"
+    ],
+    "ruffle": [
+        "ruffle"
+    ],
+    "ruffle_collar": [
+        "ruffle_collar-1",
+        "ruffle_collar"
+    ],
+    "ruffle_sleeve": [
+        "ruffle_sleeve"
+    ],
+    "scallop_edge": [
+        "scallop_edge"
+    ],
+    "scoop_neck": [
+        "scoop_neck"
+    ],
+    "short_sleeve": [
+        "short_sleeve"
+    ],
+    "shoulder_pad": [
+        "shoulder_pad"
+    ],
+    "side_cut": [
+        "side_cut"
+    ],
+    "side_slit": [
+        "side_slit"
+    ],
+    "side_tie": [
+        "side_tie"
+    ],
+    "side_zip": [
+        "side_zip"
+    ],
+    "skinny": [
+        "skinny"
+    ],
+    "sleeve": [
+        "sleeve"
+    ],
+    "sleeve_pocket": [
+        "sleeve_pocket"
+    ],
+    "sleeveless": [
+        "sleeveless-1",
+        "sleeveless"
+    ],
+    "slingback": [
+        "slingback",
+        "slingback-1"
+    ],
+    "spaghetti_strap": [
+        "spaghetti_strap"
+    ],
+    "spike_heel": [
+        "spike_heel"
+    ],
+    "split_sleeve": [
+        "split_sleeve"
+    ],
+    "square_neck": [
+        "square_neck"
+    ],
+    "square_toe": [
+        "square_toe",
+        "square_toe-1"
+    ],
+    "stacked_heel": [
+        "stacked_heel-1",
+        "stacked_heel"
+    ],
+    "strapless": [
+        "strapless"
+    ],
+    "sweetheart_neck": [
+        "sweetheart_neck",
+        "sweetheart_neck-1"
+    ],
+    "tassel_trim": [
+        "tassel_trim-1",
+        "tassel_trim"
+    ],
+    "thick_sole": [
+        "thick_sole-1",
+        "thick_sole"
+    ],
+    "thigh_high": [
+        "thigh_high"
+    ],
+    "tie": [
+        "tie-back-1"
+    ],
+    "tie_back": [
+        "tie_back"
+    ],
+    "toe_strap": [
+        "toe_strap"
+    ],
+    "turtle_neck": [
+        "turtle_neck-1",
+        "turtle_neck"
+    ],
+    "v_neck": [
+        "v_neck"
+    ],
+    "velcro_closure": [
+        "velcro_closure"
+    ],
+    "wedge_heel": [
+        "wedge_heel",
+        "wedge_heel-1"
+    ],
+    "wing_tip": [
+        "wing_tip"
+    ],
+    "zip_up": [
+        "zip_up"
+    ],
+    "zipper": [
+        "zipper"
+    ],
+    "zipper_fly": [
+        "zipper_fly"
+    ],
+    "zipper_long": [
+        "zipper_long"
+    ],
+    "zipper_pocket": [
+        "zipper_pocket"
+    ]
+}
