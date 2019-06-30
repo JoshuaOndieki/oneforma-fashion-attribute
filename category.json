@@ -1,0 +1,1795 @@
+[
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "anorak",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "ACCESSORIES"
+        ],
+        "GENDER": "",
+        "NAME": "apron",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "BRAS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bandeau",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "ROBES"
+        ],
+        "GENDER": "",
+        "NAME": "bathrobe",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "bermuda",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "ACCESSORIES"
+        ],
+        "GENDER": "",
+        "NAME": "bibs",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "BIKINI"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bikini",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "BIKINI"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "triangle_bikini",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "blazer",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS",
+            "TOPS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "blouses",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "boardshorts",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bolero",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "booties",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "boots_booties",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "chelsea_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "cowboy_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "high_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "hiking_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "rain_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "riding_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "wedge_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "work_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "combat_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "snow_boots",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "",
+        "NAME": "boxer",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "boyshort",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "BRAS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bras",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "",
+        "NAME": "boxer_briefs",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "",
+        "NAME": "briefs",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "cami",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "cape",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "cardigan",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "chinos",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "chukka",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "ACCESSORIES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "waist_cincher",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "cleats",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "cloak",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "coat",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "lab_coat",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "trench_coat",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "long_coats",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "ACCESSORIES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "corset",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SUITS"
+        ],
+        "GENDER": "",
+        "NAME": "cosplay_costume",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SCARFS"
+        ],
+        "GENDER": "",
+        "NAME": "cowl",
+        "POSITION": "HEAD"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "creeper",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "culottes",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS"
+        ],
+        "GENDER": "",
+        "NAME": "button_down",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "asymmetric_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bandage_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "beach_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bodycon_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bohemian_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "cape_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "club_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "cocktail_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "dashiki_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "draped_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "flare_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "formal_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "frill_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "halter_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "illusion_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "jumper_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "kimono_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "layered_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "long_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "maid_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "maxi_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "mermaid_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "midi_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "mini_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "overall_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "pencil_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "peplum_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "princess_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "quinceanera_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "sequined_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "sheath_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "shift_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "shirt_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "shoulder_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "skater_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "slip_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "split_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "strapless_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "summer_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "sweater_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "swing_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "tank_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "trumpet_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "tube_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "tutu_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "victorian_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "vintage_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "wedding_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "wrap_dress",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SCARFS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "dupatta",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "espadrille",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "ballet_flats",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "flip_flops",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "ball_gown",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "gown",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "prom_gown",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "high_heels",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "platform_heels",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "biker_jacket",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "bomber_jacket",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "hooded_jacket",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "puffer_jacket",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "ski_jacket",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "baggy_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "bootcut_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "capri_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "cropped_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "straight_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "tapered_jeans",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "JERSEY"
+        ],
+        "GENDER": "",
+        "NAME": "baseball_jersey",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JERSEY"
+        ],
+        "GENDER": "",
+        "NAME": "basketball_jersey",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "JERSEY"
+        ],
+        "GENDER": "",
+        "NAME": "soccer_jersey",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "JUMPSUITS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "jumpsuit",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "kimono",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "capri_leggings",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "leggings",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "LINGERIE"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "lingerie",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "loafers",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "moccasin",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SWIMWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "monokini",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "mules",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "JUMPSUITS"
+        ],
+        "GENDER": "",
+        "NAME": "overalls",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "overcoat",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "palazzo",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "panties",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "capri_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "cargo_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "cropped_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "harem_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "jogger_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "track_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "yoga_pants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "brief_panty",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "pantyhose",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "parka",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "peacoat",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SWIMWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "one_piece",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "COATS",
+            "JACKETS"
+        ],
+        "GENDER": "",
+        "NAME": "poncho",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "pumps",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "raglan",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "raincoat",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "ROBES"
+        ],
+        "GENDER": "",
+        "NAME": "robe",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "thong_sandal",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "flat_sandals",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "gladiator_sandals",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "heeled_sandals",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "platform_sandals",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "wedge_sandals",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "georgette_saree",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "saree",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "BIKINI"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bikini_set",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "BRAS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bra_set",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "LINGERIE"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "lingerie_set",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "ACCESSORIES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "body_shaper",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS",
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "blouse_shirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS",
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "flannel_shirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS",
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "golf_shirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "athletic_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "basketball_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "boat_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "flat_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "golf_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "running_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "skate_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "soccer_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "tennis_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "training_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "wedge_shoes",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "bermuda_shorts",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "boxer_shorts",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "cargo_shorts",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS"
+        ],
+        "GENDER": "",
+        "NAME": "running_shorts",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "asymmetrical_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "maxi_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "midi_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "mini_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "pencil_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "pleated_skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "skirt",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SKIRTS",
+            "SHORTS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "skort",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "sneakers",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SOCKS"
+        ],
+        "GENDER": "",
+        "NAME": "ankle_socks",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SOCKS"
+        ],
+        "GENDER": "",
+        "NAME": "crew_socks",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SOCKS"
+        ],
+        "GENDER": "",
+        "NAME": "socks",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "stiletto",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SOCKS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "stockings",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "SCARFS"
+        ],
+        "GENDER": "",
+        "NAME": "stole",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SWEATERS"
+        ],
+        "GENDER": "",
+        "NAME": "turtleneck_sweater",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "PANTS"
+        ],
+        "GENDER": "",
+        "NAME": "sweatpants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SWEATERS",
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "crew_sweatshirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SWEATERS",
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "sweatshirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SWIMWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "swimsuits",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "shirt_tank",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SWIMWEAR"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "tankini",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "asymmetrical_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "BIKINI"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bikini_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "BRAS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "bra_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "crop_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "halter_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "high_top",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "jersey_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SHOES"
+        ],
+        "GENDER": "",
+        "NAME": "low_top",
+        "POSITION": "LEGS"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "tank_top",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SUITS"
+        ],
+        "GENDER": "",
+        "NAME": "tracksuit",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "DRESSES"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "chapel_train",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHORTS",
+            "SWIMWEAR"
+        ],
+        "GENDER": "",
+        "NAME": "swim_trunks",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "TOPS"
+        ],
+        "GENDER": "",
+        "NAME": "tshirt",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SUITS"
+        ],
+        "GENDER": "",
+        "NAME": "tuxedo",
+        "POSITION": "TOP_BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "UNDERWEAR"
+        ],
+        "GENDER": "",
+        "NAME": "underpants",
+        "POSITION": "BOTTOM"
+    },
+    {
+        "CATEGORY": [
+            "SHIRTS"
+        ],
+        "GENDER": "",
+        "NAME": "button_up",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "COATS"
+        ],
+        "GENDER": "",
+        "NAME": "waistcoat",
+        "POSITION": "TOP"
+    },
+    {
+        "CATEGORY": [
+            "SUITS"
+        ],
+        "GENDER": "WOMEN",
+        "NAME": "suit_women",
+        "POSITION": "TOP_BOTTOM"
+    }
+]

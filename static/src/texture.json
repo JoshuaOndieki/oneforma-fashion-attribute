@@ -1,188 +1,376 @@
 [
-  {
-    "TEXTURE": "argyle"
-  },
-  {
-    "TEXTURE": "bleached"
-  },
-  {
-    "TEXTURE": "color_block"
-  },
-  {
-    "TEXTURE": "chevron"
-  },
-  {
-    "TEXTURE": "crochet"
-  },
-  {
-    "TEXTURE": "distressed"
-  },
-  {
-    "TEXTURE": "polka_dot"
-  },
-  {
-    "TEXTURE": "dip_dye"
-  },
-  {
-    "TEXTURE": "embroidered"
-  },
-  {
-    "TEXTURE": "abstract_floral"
-  },
-  {
-    "TEXTURE": "floral"
-  },
-  {
-    "TEXTURE": "herringbone"
-  },
-  {
-    "TEXTURE": "houndstooth"
-  },
-  {
-    "TEXTURE": "cable_knit"
-  },
-  {
-    "TEXTURE": "chunky_knit"
-  },
-  {
-    "TEXTURE": "knitted"
-  },
-  {
-    "TEXTURE": "lattice"
-  },
-  {
-    "TEXTURE": "metallic"
-  },
-  {
-    "TEXTURE": "multicolor"
-  },
-  {
-    "TEXTURE": "ombre"
-  },
-  {
-    "TEXTURE": "paisley"
-  },
-  {
-    "TEXTURE": "check_pattern"
-  },
-  {
-    "TEXTURE": "skull_pattern"
-  },
-  {
-    "TEXTURE": "perforated"
-  },
-  {
-    "TEXTURE": "buffalo_plaid"
-  },
-  {
-    "TEXTURE": "anchor_print"
-  },
-  {
-    "TEXTURE": "animal_print"
-  },
-  {
-    "TEXTURE": "aztec_print"
-  },
-  {
-    "TEXTURE": "bird_print"
-  },
-  {
-    "TEXTURE": "butterfly_print"
-  },
-  {
-    "TEXTURE": "camouflage_print"
-  },
-  {
-    "TEXTURE": "cat_print"
-  },
-  {
-    "TEXTURE": "cherry_print"
-  },
-  {
-    "TEXTURE": "crocodile_print"
-  },
-  {
-    "TEXTURE": "daisy_print"
-  },
-  {
-    "TEXTURE": "dog_print"
-  },
-  {
-    "TEXTURE": "dot_print"
-  },
-  {
-    "TEXTURE": "elephant_print"
-  },
-  {
-    "TEXTURE": "flag_print"
-  },
-  {
-    "TEXTURE": "galaxy_print"
-  },
-  {
-    "TEXTURE": "geometric_print"
-  },
-  {
-    "TEXTURE": "giraffe_print"
-  },
-  {
-    "TEXTURE": "heart_print"
-  },
-  {
-    "TEXTURE": "leaf_print"
-  },
-  {
-    "TEXTURE": "leopard_print"
-  },
-  {
-    "TEXTURE": "letter_print"
-  },
-  {
-    "TEXTURE": "owl_print"
-  },
-  {
-    "TEXTURE": "palm_print"
-  },
-  {
-    "TEXTURE": "pineapple_print"
-  },
-  {
-    "TEXTURE": "rose_print"
-  },
-  {
-    "TEXTURE": "snake_print"
-  },
-  {
-    "TEXTURE": "star_print"
-  },
-  {
-    "TEXTURE": "tribal_print"
-  },
-  {
-    "TEXTURE": "fish_scale"
-  },
-  {
-    "TEXTURE": "sequined"
-  },
-  {
-    "TEXTURE": "paint_splatter"
-  },
-  {
-    "TEXTURE": "color_stripe"
-  },
-  {
-    "TEXTURE": "horizontal_stripe"
-  },
-  {
-    "TEXTURE": "vertical_stripe"
-  },
-  {
-    "TEXTURE": "zebra_stripe"
-  },
-  {
-    "TEXTURE": "striped"
-  },
-  {
-    "TEXTURE": "studded"
-  }
+    {
+        "IMAGES": [
+            "argyle"
+        ],
+        "TEXTURE": "argyle"
+    },
+    {
+        "IMAGES": [
+            "bleached"
+        ],
+        "TEXTURE": "bleached"
+    },
+    {
+        "IMAGES": [
+            "color_block"
+        ],
+        "TEXTURE": "color_block"
+    },
+    {
+        "IMAGES": [
+            "chevron"
+        ],
+        "TEXTURE": "chevron"
+    },
+    {
+        "IMAGES": [
+            "crochet"
+        ],
+        "TEXTURE": "crochet"
+    },
+    {
+        "IMAGES": [
+            "distressed"
+        ],
+        "TEXTURE": "distressed"
+    },
+    {
+        "IMAGES": [
+            "polka_dot"
+        ],
+        "TEXTURE": "polka_dot"
+    },
+    {
+        "IMAGES": [
+            "dip_dye"
+        ],
+        "TEXTURE": "dip_dye"
+    },
+    {
+        "IMAGES": [
+            "embroidered"
+        ],
+        "TEXTURE": "embroidered"
+    },
+    {
+        "IMAGES": [
+            "abstract_floral"
+        ],
+        "TEXTURE": "abstract_floral"
+    },
+    {
+        "IMAGES": [
+            "floral"
+        ],
+        "TEXTURE": "floral"
+    },
+    {
+        "IMAGES": [
+            "herringbone"
+        ],
+        "TEXTURE": "herringbone"
+    },
+    {
+        "IMAGES": [
+            "houndstooth"
+        ],
+        "TEXTURE": "houndstooth"
+    },
+    {
+        "IMAGES": [
+            "cable_knit"
+        ],
+        "TEXTURE": "cable_knit"
+    },
+    {
+        "IMAGES": [
+            "chunky_knit"
+        ],
+        "TEXTURE": "chunky_knit"
+    },
+    {
+        "IMAGES": [
+            "knitted"
+        ],
+        "TEXTURE": "knitted"
+    },
+    {
+        "IMAGES": [
+            "lattice",
+            "lattice-1"
+        ],
+        "TEXTURE": "lattice"
+    },
+    {
+        "IMAGES": [
+            "metallic"
+        ],
+        "TEXTURE": "metallic"
+    },
+    {
+        "IMAGES": [
+            "multicolor"
+        ],
+        "TEXTURE": "multicolor"
+    },
+    {
+        "IMAGES": [
+            "ombre"
+        ],
+        "TEXTURE": "ombre"
+    },
+    {
+        "IMAGES": [
+            "paisley"
+        ],
+        "TEXTURE": "paisley"
+    },
+    {
+        "IMAGES": [
+            "check_pattern"
+        ],
+        "TEXTURE": "check_pattern"
+    },
+    {
+        "IMAGES": [
+            "skull_pattern"
+        ],
+        "TEXTURE": "skull_pattern"
+    },
+    {
+        "IMAGES": [
+            "perforated"
+        ],
+        "TEXTURE": "perforated"
+    },
+    {
+        "IMAGES": [
+            "buffalo_plaid"
+        ],
+        "TEXTURE": "buffalo_plaid"
+    },
+    {
+        "IMAGES": [
+            "anchor_print"
+        ],
+        "TEXTURE": "anchor_print"
+    },
+    {
+        "IMAGES": [
+            "animal_print"
+        ],
+        "TEXTURE": "animal_print"
+    },
+    {
+        "IMAGES": [
+            "aztec_print-1",
+            "aztec_print"
+        ],
+        "TEXTURE": "aztec_print"
+    },
+    {
+        "IMAGES": [
+            "bird_print"
+        ],
+        "TEXTURE": "bird_print"
+    },
+    {
+        "IMAGES": [
+            "butterfly_print"
+        ],
+        "TEXTURE": "butterfly_print"
+    },
+    {
+        "IMAGES": [
+            "camouflage_print"
+        ],
+        "TEXTURE": "camouflage_print"
+    },
+    {
+        "IMAGES": [
+            "cat_print"
+        ],
+        "TEXTURE": "cat_print"
+    },
+    {
+        "IMAGES": [
+            "cherry_print"
+        ],
+        "TEXTURE": "cherry_print"
+    },
+    {
+        "IMAGES": [
+            "crocodile_print"
+        ],
+        "TEXTURE": "crocodile_print"
+    },
+    {
+        "IMAGES": [
+            "daisy_print"
+        ],
+        "TEXTURE": "daisy_print"
+    },
+    {
+        "IMAGES": [
+            "dog_print"
+        ],
+        "TEXTURE": "dog_print"
+    },
+    {
+        "IMAGES": [
+            "dot_print"
+        ],
+        "TEXTURE": "dot_print"
+    },
+    {
+        "IMAGES": [
+            "elephant_print"
+        ],
+        "TEXTURE": "elephant_print"
+    },
+    {
+        "IMAGES": [
+            "flag_print"
+        ],
+        "TEXTURE": "flag_print"
+    },
+    {
+        "IMAGES": [
+            "galaxy_print"
+        ],
+        "TEXTURE": "galaxy_print"
+    },
+    {
+        "IMAGES": [
+            "geometric_print"
+        ],
+        "TEXTURE": "geometric_print"
+    },
+    {
+        "IMAGES": [
+            "giraffe_print"
+        ],
+        "TEXTURE": "giraffe_print"
+    },
+    {
+        "IMAGES": [
+            "heart_print"
+        ],
+        "TEXTURE": "heart_print"
+    },
+    {
+        "IMAGES": [
+            "leaf_print"
+        ],
+        "TEXTURE": "leaf_print"
+    },
+    {
+        "IMAGES": [
+            "leopard_print"
+        ],
+        "TEXTURE": "leopard_print"
+    },
+    {
+        "IMAGES": [
+            "letter_print"
+        ],
+        "TEXTURE": "letter_print"
+    },
+    {
+        "IMAGES": [
+            "owl_print"
+        ],
+        "TEXTURE": "owl_print"
+    },
+    {
+        "IMAGES": [
+            "palm_print"
+        ],
+        "TEXTURE": "palm_print"
+    },
+    {
+        "IMAGES": [
+            "pineapple_print"
+        ],
+        "TEXTURE": "pineapple_print"
+    },
+    {
+        "IMAGES": [
+            "rose_print"
+        ],
+        "TEXTURE": "rose_print"
+    },
+    {
+        "IMAGES": [
+            "snake_print"
+        ],
+        "TEXTURE": "snake_print"
+    },
+    {
+        "IMAGES": [
+            "star_print"
+        ],
+        "TEXTURE": "star_print"
+    },
+    {
+        "IMAGES": [
+            "tribal_print"
+        ],
+        "TEXTURE": "tribal_print"
+    },
+    {
+        "IMAGES": [
+            "fish_scale"
+        ],
+        "TEXTURE": "fish_scale"
+    },
+    {
+        "IMAGES": [
+            "sequined"
+        ],
+        "TEXTURE": "sequined"
+    },
+    {
+        "IMAGES": [
+            "paint_splatter"
+        ],
+        "TEXTURE": "paint_splatter"
+    },
+    {
+        "IMAGES": [
+            "color_stripe"
+        ],
+        "TEXTURE": "color_stripe"
+    },
+    {
+        "IMAGES": [
+            "horizontal_stripe"
+        ],
+        "TEXTURE": "horizontal_stripe"
+    },
+    {
+        "IMAGES": [
+            "vertical_stripe"
+        ],
+        "TEXTURE": "vertical_stripe"
+    },
+    {
+        "IMAGES": [
+            "zebra_stripe"
+        ],
+        "TEXTURE": "zebra_stripe"
+    },
+    {
+        "IMAGES": [
+            "striped"
+        ],
+        "TEXTURE": "striped"
+    },
+    {
+        "IMAGES": [
+            "studded"
+        ],
+        "TEXTURE": "studded"
+    }
 ]
