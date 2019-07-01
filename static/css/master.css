@@ -194,7 +194,7 @@ aside button:hover {
 }
 
 .asideinfo{
-    display: block;
+    display: none;
     width: 90%;
     height: 90%;
     vertical-align: middle;
@@ -211,7 +211,7 @@ aside button:hover {
 
 .asidecategories{
     width: 100%;
-    display: none; /* No display by default. Dynamic change to block by webapp.*/
+    display: block; /* No display by default. Dynamic change to block by webapp.*/
 }
 
 .asideparts{
