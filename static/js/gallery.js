@@ -631,16 +631,20 @@ function resizefigure(ev){
     console.log(image);
     var currentdisplay = image.style.display;
     console.log(currentdisplay);
-    var figures = document.getElementsByTagName('figure');
+    var figures = image.parentNode.getElementsByTagName('figure');
     for (i = 0; i < figures.length; i++) {
-        figures[i].style.width = '144px';
-        figures[i].style.height = '188px';
-        figures[i].style.display = 'inline-flex';
 
-        var figureimage = figures[i].getElementsByTagName('img')[0];
-        figureimage.style.width = '';
-        figureimage.style.maxWidth = '144px';
-        figureimage.style.height = '188px';
+        if (figures[i].style.display === 'block') {
+            figures[i].style.display = 'inline-flex';
+
+            figures[i].style.width = '144px';
+            figures[i].style.height = '188px';
+
+            var figureimage = figures[i].getElementsByTagName('img')[0];
+            figureimage.style.width = '';
+            figureimage.style.maxWidth = '144px';
+            figureimage.style.height = '188px';
+        }
     }
     if (currentdisplay !== 'block') {
         image.style.width = 'auto';
