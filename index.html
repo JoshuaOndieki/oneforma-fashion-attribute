@@ -4,13 +4,14 @@
         <meta charset="utf-8">
         <title>Fashion Attribute</title>
         <link rel="stylesheet" href="static/css/master.css">
+        <link rel="stylesheet" href="static/css/footer.css">
         <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-git.js">
         </script> -->
     </head>
     <body>
         <header class="">
             <div class="header">
-
+                Oneforma ~ Fashion Attribute Project
             </div>
             <nav>
                 <div class="navwrapper">
@@ -29,7 +30,13 @@
                         <button id="top_bottombtn">TOP_BOTTOM</button>
 
                         <!-- TODO: Add search functionality later -->
-                        <button disabled><i>Search...</i></button>
+                        <!-- <form id="searchform" class="" onsubmit="search()">
+                            <input hidden type="text" name="searchcriteria" value="">
+                            <input type="search" name="categoryquery" placeholder="Search Category..." onkeydown="if (event.keyCode == 13) { this.form.submit(); this.form.searchcriteria.value = 'category'; return false; }"></input>
+                            <input type="search" name="partquery" placeholder="Search Part...">
+                            <input type="search" name="texturequery" placeholder="Search Texture...">
+                        </form> -->
+                        <button id="infoarea" type="button" disabled></button>
                     </div>
                     <div id="labelsbtns" class="navlabelsfilter navswitcher">
                         <button id="categorybtn">CATEGORY</button>
@@ -115,7 +122,18 @@
             </div>
         </main>
 
-        <footer></footer>
+        <footer>
+            <div class="copyright">
+              <p>&copy 2019 - OJ</p>
+            </div>
+            <div class="social">
+              <a href="mailto:joshuaondieki8@gmail.com" class="supportlink" target="_blank">Email Me</a>
+              <a href="https://facebook.com/gitjosh" class="facebooklink" target="_blank">f</a>
+              <a href="https://twitter.com/_JoshuaOndieki" class="twitterlink" target="_blank">t</a>
+              <a href="https://linkedin.com/in/iamOJ" class="linkedinlink" target="_blank">in</a>
+              <a href="https://github.com/JoshuaOndieki" class="githublink" target="_blank">Github</a>
+            </div>
+        </footer>
         <script src="static/js/data.js" type="text/javascript">
 
         </script>

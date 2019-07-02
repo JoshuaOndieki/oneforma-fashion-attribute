@@ -379,6 +379,13 @@ function labelsswitcher(ev){
     filteredtextures = textures;
 
     if (clickedbutton.id === 'categorybtn') {
+        document.getElementById('genderbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = false;
+        });
+        document.getElementById('positionbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = false;
+        });
+
         document.getElementById('gcategory').style.display = 'block';
         document.getElementById('gpart').style.display = 'none';
         document.getElementById('gtexture').style.display = 'none';
@@ -399,6 +406,13 @@ function labelsswitcher(ev){
         }
     }
     else if (clickedbutton.id === 'partbtn') {
+        document.getElementById('genderbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = true;
+        });
+        document.getElementById('positionbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = true;
+        });
+
         document.getElementById('gcategory').style.display = 'none';
         document.getElementById('gpart').style.display = 'block';
         document.getElementById('gtexture').style.display = 'none';
@@ -419,6 +433,13 @@ function labelsswitcher(ev){
         }
     }
     else if (clickedbutton.id === 'texturebtn') {
+        document.getElementById('genderbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = true;
+        });
+        document.getElementById('positionbtns').querySelectorAll('button').forEach(function(button) {
+            button.disabled = true;
+        });
+
         document.getElementById('gcategory').style.display = 'none';
         document.getElementById('gpart').style.display = 'none';
         document.getElementById('gtexture').style.display = 'block';
@@ -538,6 +559,7 @@ function categoryswitcher(ev){
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
     }
+
     if (clickedbutton.style.backgroundColor === 'rgb(221,218,214)' || clickedbutton.style.backgroundColor === '#dddad6') {
         filteredcategories = categories;
         document.getElementById('categorybtns').querySelectorAll('button').forEach(function(button) {
@@ -567,6 +589,10 @@ function categoryswitcher(ev){
 
         if(imagefilterclasses.length > 0){
             var filteredimages = gcategory.getElementsByClassName(imagefilterclasses.join(' '));
+            var allimages = gcategory.getElementsByTagName('figure');
+            for (i = 0; i < allimages.length; i++) {
+                allimages[i].style.display = "none";
+            }
             for (i = 0; i < filteredimages.length; i++) {
                 filteredimages[i].style.display = "inline-flex";
             }

@@ -36,12 +36,13 @@ header{
     color: #cccccc;
     font-weight: bold;
     height: 10%;
-    width: 100%
+    width: 100%;
+    text-align: center;
 }
 
 .header{
     height: 40%;
-    width: 100%
+    width: 100%;
 }
 
 nav{
@@ -280,6 +281,30 @@ figcaption{
     text-align: center;
 }
 
+input{
+    font-style: italic;
+
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-width: thin;
+    border-bottom-width: thin;
+
+    background-color: #f6f5f4;
+    border: none;
+    color: #313739;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: none;
+}
+
+#infoarea{
+    border-left-style: solid;
+    border-left-width: thin;
+    border-left-color: #888;
+    margin-left: 3px;
+}
 
 /* width */
 ::-webkit-scrollbar {
