@@ -1,19 +1,9 @@
-let categorybtns = document.getElementById('categorybtns').querySelectorAll('button'); //get all buttons
-categorybtns.forEach( btn => {
-    btn.addEventListener('click', categoryfunc);
-})
+
 
 let partbtns = document.getElementById('partbtns').querySelectorAll('button'); //get all buttons
 partbtns.forEach( btn => {
     btn.addEventListener('click', partfunc);
 })
-
-
-function categoryfunc(ev) {
-    let id = ev.currentTarget.id;
-    let btn = document.getElementById(id);
-    alert(id);
-}
 
 
 function partfunc(ev) {

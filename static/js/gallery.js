@@ -28,6 +28,10 @@ document.getElementById('labelsbtns').querySelectorAll('button').forEach( btn =>
 document.getElementById('positionbtns').querySelectorAll('button').forEach( btn => {
     btn.addEventListener('click', positionswitcher);
 })
+let categorybtns = document.getElementById('categorybtns').querySelectorAll('button'); //get all buttons
+categorybtns.forEach( btn => {
+    btn.addEventListener('click', categoryswitcher);
+})
 
 
 function genderswitcher(ev){
@@ -520,4 +524,47 @@ function texturefunc(){
         });
     });
 
+}
+
+
+function categoryswitcher(ev){
+    var clickedbutton = ev.currentTarget;
+    var myNode = document.getElementById("gcategory");
+    while (myNode.firstChild) {
+        myNode.removeChild(myNode.firstChild);
+    }
+    if (clickedbutton.style.backgroundColor === 'rgb(221,218,214)' || clickedbutton.style.backgroundColor === '#dddad6') {
+        filteredcategories = categories;
+        document.getElementById('categorybtns').querySelectorAll('button').forEach(function(button) {
+            button.style.backgroundColor = 'transparent';
+        });
+        clickedbutton.style.backgroundColor = 'transparent';
+        categoryfunc();
+
+        var filteredimages = gcategory.getElementsByClassName(imagefilterclasses.join(' '));
+        var allimages = gcategory.getElementsByTagName('figure');
+        for (i = 0; i < allimages.length; i++) {
+            allimages[i].style.display = "none";
+        }
+        for (i = 0; i < filteredimages.length; i++) {
+            filteredimages[i].style.display = "inline-flex";
+        }
+    }
+    else {
+        document.getElementById('categorybtns').querySelectorAll('button').forEach(function(button) {
+            button.style.backgroundColor = 'transparent';
+        });
+        clickedbutton.style.backgroundColor = '#dddad6';
+        filteredcategories = categories.filter(function(value, index, arr){
+            return value['CATEGORY'].includes(clickedbutton.id.slice(0,-3).toUpperCase());
+        });
+        categoryfunc();
+
+        if(imagefilterclasses.length > 0){
+            var filteredimages = gcategory.getElementsByClassName(imagefilterclasses.join(' '));
+            for (i = 0; i < filteredimages.length; i++) {
+                filteredimages[i].style.display = "inline-flex";
+            }
+        }
+    }
 }
