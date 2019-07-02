@@ -252,6 +252,7 @@ main{
     width: 99%;
     min-height: 100%;
     display: block;
+    text-align: -webkit-center;
 }
 
 figure{
@@ -265,8 +266,8 @@ figure{
 }
 
 figure img{
-    max-width: 144px;
-    max-height: 188px;
+    width: 144px;
+    height: 188px;
 }
 
 figcaption{

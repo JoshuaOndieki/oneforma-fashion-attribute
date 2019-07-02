@@ -28,9 +28,11 @@ document.getElementById('labelsbtns').querySelectorAll('button').forEach( btn =>
 document.getElementById('positionbtns').querySelectorAll('button').forEach( btn => {
     btn.addEventListener('click', positionswitcher);
 })
-let categorybtns = document.getElementById('categorybtns').querySelectorAll('button'); //get all buttons
-categorybtns.forEach( btn => {
+document.getElementById('categorybtns').querySelectorAll('button').forEach( btn => {
     btn.addEventListener('click', categoryswitcher);
+})
+document.getElementById('partbtns').querySelectorAll('button').forEach( btn => {
+    btn.addEventListener('click', partswitcher);
 })
 
 
@@ -457,6 +459,9 @@ function createFigure(name, labeltype, elementimg, gendervalue='', categoriesval
     if (figureclasses) {
         figure.setAttribute('class', figureclasses.join(' '));
     }
+
+    figure.addEventListener('click', resizefigure);
+
     var figcaption = document.createElement('FIGCAPTION');
     figcaption.innerHTML = name;
     var img = document.createElement('IMG');
@@ -503,7 +508,7 @@ function partfunc(){
 
     filteredparts.forEach(function(element) {
         element['IMAGES'].forEach(function(elementimg) {
-            createFigure(element['PART'], 'part', elementimg);
+            createFigure(element['PART'], 'part', elementimg, categoriesvalue=element['CATEGORY']);
         });
     });
 
@@ -566,5 +571,46 @@ function categoryswitcher(ev){
                 filteredimages[i].style.display = "inline-flex";
             }
         }
+    }
+}
+
+
+function partswitcher(ev){
+    var clickedbutton = ev.currentTarget;
+    var myNode = document.getElementById("gpart");
+    while (myNode.firstChild) {
+        myNode.removeChild(myNode.firstChild);
+    }
+    if (clickedbutton.style.backgroundColor === 'rgb(221,218,214)' || clickedbutton.style.backgroundColor === '#dddad6') {
+        filteredparts = parts;
+        document.getElementById('partbtns').querySelectorAll('button').forEach(function(button) {
+            button.style.backgroundColor = 'transparent';
+        });
+        clickedbutton.style.backgroundColor = 'transparent';
+        partfunc();
+
+        var filteredimages = gpart.getElementsByClassName(imagefilterclasses.join(' '));
+        var allimages = gpart.getElementsByTagName('figure');
+        for (i = 0; i < allimages.length; i++) {
+            allimages[i].style.display = "none";
+        }
+        for (i = 0; i < filteredimages.length; i++) {
+            filteredimages[i].style.display = "inline-flex";
+        }
+    }
+    else {
+        document.getElementById('partbtns').querySelectorAll('button').forEach(function(button) {
+            button.style.backgroundColor = 'transparent';
+        });
+        clickedbutton.style.backgroundColor = '#dddad6';
+        filteredparts = parts.filter(function(value, index, arr){
+            return value['CATEGORY'].includes(clickedbutton.id.slice(0,-3).toUpperCase());
+        });
+        partfunc();
+
+        filteredparts = parts.filter(function(value, index, arr){
+            console.log(value);
+            return value['CATEGORY'].includes(clickedbutton.id.slice(0,-3).toUpperCase());
+        });
     }
 }
