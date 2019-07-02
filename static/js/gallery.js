@@ -486,7 +486,7 @@ function createFigure(name, labeltype, elementimg, gendervalue='', categoriesval
     var figcaption = document.createElement('FIGCAPTION');
     figcaption.innerHTML = name;
     var img = document.createElement('IMG');
-    img.src = 'static/src/' + labeltype + '/' + elementimg + '.png';
+    img.src = '../static/src/' + labeltype + '/' + elementimg + '.png';
     figure.appendChild(img);
     figure.appendChild(figcaption);
 

@@ -175,13 +175,13 @@ nav{
 
 aside button {
     background-color: transparent;
-    border: none; /* Green border */
-    color: #393939; /* White text */
+    border: none;
+    color: #393939;
     text-align: left;
-    padding: 10px 24px; /* Some padding */
-    cursor: pointer; /* Pointer/hand icon */
-    width: 48%; /* Set a width if needed */
-    display: inline-flex; /* Make the buttons appear below each other */
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 48%;
+    display: inline-flex;
     margin: auto;
 }
 
