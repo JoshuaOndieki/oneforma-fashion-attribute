@@ -614,3 +614,43 @@ function partswitcher(ev){
         });
     }
 }
+
+
+function resizefigure(ev){
+    image = ev.currentTarget;
+    // resize all images to normal size
+
+    /* resize this image to
+    width: auto;
+    height: 450px;
+    display: block;
+
+    width: auto;
+    height: 100%;
+    */
+    console.log(image);
+    var currentdisplay = image.style.display;
+    console.log(currentdisplay);
+    var figures = document.getElementsByTagName('figure');
+    for (i = 0; i < figures.length; i++) {
+        figures[i].style.width = '144px';
+        figures[i].style.height = '188px';
+        figures[i].style.display = 'inline-flex';
+
+        var figureimage = figures[i].getElementsByTagName('img')[0];
+        figureimage.style.width = '';
+        figureimage.style.maxWidth = '144px';
+        figureimage.style.height = '188px';
+    }
+    if (currentdisplay !== 'block') {
+        image.style.width = 'auto';
+        image.style.height = '450px';
+        image.style.display = 'block';
+
+        var imageimg = image.getElementsByTagName('img')[0];
+        imageimg.style.maxWidth = '';
+        imageimg.style.width = 'auto';
+        imageimg.style.height = '100%';
+        image.scrollIntoView();
+    }
+}
