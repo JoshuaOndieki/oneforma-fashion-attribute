@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+/* Colors */
+* {
+margin: 0;
+padding: 0;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+footer {
+background-color: #999;
+text-align: center;
+}
+
+footer .copyright {
+width: 20%;
+float: left;
+}
+@media (max-width: 600px) {
+footer .copyright {
+width: 100%;
+}
+}
+footer .copyright p {
+padding-left: 10%;
+color: white;
+font-size: 0.7em;
+line-height: 35px;
+text-transform: capitalize;
+letter-spacing: 1px;
+}
+@media (max-width: 600px) {
+footer .copyright p {
+text-align: left;
+padding: 0;
+}
+}
+footer .social {
+width: 50%;
+float: right;
+}
+@media (max-width: 600px) {
+footer .social {
+width: 100%;
+}
+}
+footer .social a {
+float: left;
+line-height: 35px;
+text-decoration: none;
+color: white;
+text-align: center;
+font-weight: bold;
+-moz-transition: all, 0.3s;
+-o-transition: all, 0.3s;
+-webkit-transition: all, 0.3s;
+transition: all, 0.3s;
+}
+footer .social a:hover {
+background-color: #222;
+-moz-transition: all, 0.3s;
+-o-transition: all, 0.3s;
+-webkit-transition: all, 0.3s;
+transition: all, 0.3s;
+}
+
+.linkedinlink {
+background-color: #1E83AE;
+font-size: 1.2em;
+width: 15%;
+}
+
+.facebooklink {
+background-color: #3D5B94;
+font-size: 1.2em;
+width: 15%;
+}
+
+.twitterlink {
+background-color: #3DACDD;
+font-size: 1.2em;
+width: 15%;
+}
+
+.supportlink {
+background-color: #6dcd9a;
+font-size: 0.8em;
+width: 25%;
+}
+
+.githublink {
+background-color: #9ca0a5;
+font-size: 0.8em;
+width: 30%;
+}
