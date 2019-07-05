@@ -228,9 +228,9 @@ main{
     background-color: white;
     float: right;
     overflow-y: auto;
-    background-image: url(static/src/puff.svg);
     background-position: center;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 .loading{

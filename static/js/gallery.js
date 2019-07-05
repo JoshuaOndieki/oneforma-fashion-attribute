@@ -386,24 +386,33 @@ function labelsswitcher(ev){
             button.disabled = false;
         });
 
-        document.getElementById('gcategory').style.display = 'block';
+        document.getElementById('gcategory').style.display = 'none';
         document.getElementById('gpart').style.display = 'none';
         document.getElementById('gtexture').style.display = 'none';
         if (clickedbutton.style.backgroundColor === '#a79583') {
-            categoryfunc();
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
+
+            categoryfunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gcategory').style.display = 'block';
+            });
         }
         else {
             document.getElementById('labelsbtns').querySelectorAll('button').forEach(function(button){
                 button.style.backgroundColor = '#efedeb';
             });
             clickedbutton.style.backgroundColor = '#a79583';
-            document.getElementById('gcategory').style.display = 'block';
-            document.getElementById('gpart').style.display = 'none';
-            document.getElementById('gtexture').style.display = 'none';
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
 
-            categoryfunc();
+
+            categoryfunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gcategory').style.display = 'block';
+            });
 
         }
+
+
     }
     else if (clickedbutton.id === 'partbtn') {
         document.getElementById('genderbtns').querySelectorAll('button').forEach(function(button) {
@@ -414,21 +423,27 @@ function labelsswitcher(ev){
         });
 
         document.getElementById('gcategory').style.display = 'none';
-        document.getElementById('gpart').style.display = 'block';
+        document.getElementById('gpart').style.display = 'none';
         document.getElementById('gtexture').style.display = 'none';
         if (clickedbutton.style.backgroundColor === '#a79583') {
-            partfunc();
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
+
+            partfunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gpart').style.display = 'block';
+            });
         }
         else {
             document.getElementById('labelsbtns').querySelectorAll('button').forEach(function(button){
                 button.style.backgroundColor = '#efedeb';
             });
             clickedbutton.style.backgroundColor = '#a79583';
-            document.getElementById('gcategory').style.display = 'none';
-            document.getElementById('gpart').style.display = 'block';
-            document.getElementById('gtexture').style.display = 'none';
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
 
-            partfunc();
+            partfunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gpart').style.display = 'block';
+            });
 
         }
     }
@@ -442,20 +457,26 @@ function labelsswitcher(ev){
 
         document.getElementById('gcategory').style.display = 'none';
         document.getElementById('gpart').style.display = 'none';
-        document.getElementById('gtexture').style.display = 'block';
+        document.getElementById('gtexture').style.display = 'none';
         if (clickedbutton.style.backgroundColor === '#a79583') {
-            texturefunc();
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
+
+            texturefunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gtexture').style.display = 'block';
+            });
         }
         else {
             document.getElementById('labelsbtns').querySelectorAll('button').forEach(function(button){
                 button.style.backgroundColor = '#efedeb';
             });
             clickedbutton.style.backgroundColor = '#a79583';
-            document.getElementById('gcategory').style.display = 'none';
-            document.getElementById('gpart').style.display = 'none';
-            document.getElementById('gtexture').style.display = 'block';
+            document.getElementById('imageviewer').style.backgroundImage = "url('../static/src/puff.svg')";
 
-            texturefunc();
+            texturefunc(() => {
+                document.getElementById('imageviewer').style.backgroundImage = 'none';
+                document.getElementById('gtexture').style.display = 'block';
+            });
 
         }
     }
@@ -501,27 +522,21 @@ function createFigure(name, labeltype, elementimg, gendervalue='', categoriesval
     }
 }
 
-function categoryfunc(){
+function categoryfunc(callback){
     var myNode = document.getElementById("gcategory");
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
     }
-
-    document.getElementById('categorybtns').style.display = 'block';
-    document.getElementById('partbtns').style.display = 'none';
-    document.getElementById('asideinfo').style.display = 'none';
 
     filteredcategories.forEach(function(element) {
         element['IMAGES'].forEach(function(elementimg) {
             createFigure(element['NAME'], 'category', elementimg, gendervalue=element['GENDER'], categoriesvalue=element['CATEGORY'], position=element['POSITION']);
         });
     });
+    callback();
 }
 
-function partfunc(){
-    document.getElementById('categorybtns').style.display = 'none';
-    document.getElementById('partbtns').style.display = 'block';
-    document.getElementById('asideinfo').style.display = 'none';
+function partfunc(callback){
     var myNode = document.getElementById("gpart");
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
@@ -532,13 +547,11 @@ function partfunc(){
             createFigure(element['PART'], 'part', elementimg, categoriesvalue=element['CATEGORY']);
         });
     });
+    callback();
 
 }
 
-function texturefunc(){
-    document.getElementById('categorybtns').style.display = 'none';
-    document.getElementById('partbtns').style.display = 'none';
-    document.getElementById('asideinfo').style.display = 'block';
+function texturefunc(callback){
     var myNode = document.getElementById("gtexture");
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
@@ -549,6 +562,7 @@ function texturefunc(){
             createFigure(element['TEXTURE'], 'texture', elementimg);
         });
     });
+    callback();
 
 }
 
