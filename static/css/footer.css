@@ -71,12 +71,6 @@ font-size: 1.2em;
 width: 15%;
 }
 
-.facebooklink {
-background-color: #3D5B94;
-font-size: 1.2em;
-width: 15%;
-}
-
 .twitterlink {
 background-color: #3DACDD;
 font-size: 1.2em;
@@ -86,11 +80,11 @@ width: 15%;
 .supportlink {
 background-color: #6dcd9a;
 font-size: 0.8em;
-width: 25%;
+width: 30%;
 }
 
 .githublink {
 background-color: #9ca0a5;
 font-size: 0.8em;
-width: 30%;
+width: 40%;
 }
