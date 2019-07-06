@@ -528,6 +528,10 @@ function categoryfunc(callback){
         myNode.removeChild(myNode.firstChild);
     }
 
+    document.getElementById('categorybtns').style.display = 'block';
+    document.getElementById('partbtns').style.display = 'none';
+    document.getElementById('asideinfo').style.display = 'none';
+
     filteredcategories.forEach(function(element) {
         element['IMAGES'].forEach(function(elementimg) {
             createFigure(element['NAME'], 'category', elementimg, gendervalue=element['GENDER'], categoriesvalue=element['CATEGORY'], position=element['POSITION']);
@@ -541,6 +545,10 @@ function partfunc(callback){
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
     }
+
+    document.getElementById('categorybtns').style.display = 'none';
+    document.getElementById('partbtns').style.display = 'block';
+    document.getElementById('asideinfo').style.display = 'none';
 
     filteredparts.forEach(function(element) {
         element['IMAGES'].forEach(function(elementimg) {
@@ -556,6 +564,10 @@ function texturefunc(callback){
     while (myNode.firstChild) {
         myNode.removeChild(myNode.firstChild);
     }
+
+    document.getElementById('categorybtns').style.display = 'none';
+    document.getElementById('partbtns').style.display = 'none';
+    document.getElementById('asideinfo').style.display = 'block';
 
     filteredtextures.forEach(function(element) {
         element['IMAGES'].forEach(function(elementimg) {
