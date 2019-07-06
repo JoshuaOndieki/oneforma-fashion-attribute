@@ -252,7 +252,7 @@ main{
 .gallery{
     width: 99%;
     min-height: 100%;
-    display: block;
+    display: none;
     text-align: -webkit-center;
 }
 
